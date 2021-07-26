@@ -1,0 +1,621 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="TV", ECUAVISA
+http://vps-c97214f4.vps.ovh.net/hls/tv3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", ECUAVISA 2
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", Ecuavisa 3
+http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", RTS 2
+http://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", Teleamazonas SIERRA
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", TC (HD)
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", MAX TV Ecuador
+https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w2024687795_b2108000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", CANELA TV (SD)
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w99716121.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", RTU TV
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", ORO MAR TV
+http://190.52.205.149:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", MTV 1 TELE CLUB
+https://tv.teleclub.xyz/live/club/MTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", MTV 2 TELECLUB
+https://tv.teleclub.xyz/live/club2/MTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", MTV 2 - 3 CLUBTV
+https://tv.teleclub.xyz/live/club2/MTVHITS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", MTV  LATiNO (PLUTO)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", MTV BRASIL 2021 ALTERNO
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50855?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", Retro Plus 1 (música) en vivo
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1425135944.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", Retro Plus 2 LATINO  (cine) en vivo
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1009683584.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", ILATINOS  UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w321272537.m3u8
+#EXTINF:0 type="stream" channelId="2623" group="TV", PLAY TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w656036472.m3u8
+#EXTINF:0 type="stream" channelId="3889" group="TV" logo="https://i.imgur.com/GSclzOJ.jpg", NICK MUSIC
+https://tv.teleclub.xyz/live/club/NICKMUSIC.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GSclzOJ.jpg", NICK MUSIC 2
+https://tv.teleclub.xyz/live/club2/NICKMUSIC.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/LtQL1q9.jpg", HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png", FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INT", FTV MIDNIGTH SECRECTS FUNCIONA
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", a3BIKINI
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:0 type="stream" channelId="40" group="TV" logo="https://i.imgur.com/wx6s0Wq.jpg", CARTOON NETWORK
+https://tv.teleclub.xyz/live/club/CARTOON.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/wx6s0Wq.jpg", CARTOON NETWORK 2
+https://tv.teleclub.xyz/live/club2/CARTOON.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/brvWB3u.png", DISCOVERY KIDS ARG
+https://tv.teleclub.xyz/live/club2/DKIDS.m3u8
+#EXTINF:0 type="stream" channelId="19" group="TV" logo="https://i.imgur.com/84lq03p.jpg", DISNEY CHANNEL
+https://tv.teleclub.xyz/live/club/DISNEY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/84lq03p.jpg", DISNEY CHANNEL 2
+https://tv.teleclub.xyz/live/club2/DISNEY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/84lq03p.jpg", DISNEY CHANNEL ARG
+https://tv.teleclub.xyz/live/club3/DISNEYCHANNEL.m3u8
+#EXTINF:0 type="stream" channelId="1197" group="TV" logo="https://i.imgur.com/9FOKuui.jpg", DISNEY JR
+https://tv.teleclub.xyz/live/club/DISNEYJR.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/9FOKuui.jpg", DISNEY JR 2
+https://tv.teleclub.xyz/live/club2/DISNEYJR.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/9FOKuui.jpg", DISNEY JR ARG
+https://tv.teleclub.xyz/live/club3/DISNEYJUNIOR.m3u8
+#EXTINF:0 type="stream" channelId="1198" group="TV" logo="https://i.imgur.com/NLNivxd.jpg", DISNEY XD
+https://tv.teleclub.xyz/live/club/DISNEYXD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/NLNivxd.jpg", DISNEY XD 2
+https://tv.teleclub.xyz/live/club2/DISNEYXD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="Https://i.imgur.com/NLNivxd.jpg", DISNEY XD ARG
+https://tv.teleclub.xyz/live/club3/DISNEYXD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GSclzOJ.jpg", NICK
+https://tv.teleclub.xyz/live/club/NICK.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GSclzOJ.jpg", NICK 2
+https://tv.teleclub.xyz/live/club2/NICK.m3u8
+#EXTINF:0 type="stream" channelId="322" group="TV" logo="https://i.imgur.com/rhHtS3j.jpg", NICK JR
+https://tv.teleclub.xyz/live/club/NICKJR.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/w916RKM.png", NICK JR 2
+https://tv.teleclub.xyz/live/club2/NICKJR.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/7Vaq92j.jpg", A_E MUNDO
+https://tv.teleclub.xyz/live/club/AYE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/KKCfKfY.png", A_E MUNDO ARG
+https://tv.teleclub.xyz/live/club2/AYE.m3u8
+#EXTINF:0 type="stream" channelId="1573" group="TV" logo="https://i.imgur.com/OdR3aff.jpg", AXN
+https://tv.teleclub.xyz/live/club/AXN.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/680baIn.png", AXN 2
+https://tv.teleclub.xyz/live/club2/AXN.m3u8
+#EXTINF:0 type="stream" channelId="1190" group="TV" logo="https://i.imgur.com/CEJRI4O.jpg", COMEDY CENTRAL
+https://tv.teleclub.xyz/live/club/COMEDYCENTRAL.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/CEJRI4O.jpg", COMEDY CENTRAL 2
+https://tv.teleclub.xyz/live/club2/COMEDYCENTRAL.m3u8
+#EXTINF:0 type="stream" channelId="1961" group="TV" logo="https://i.imgur.com/pWW9ljW.jpg", DISTRITO COMEDIA
+https://tv.teleclub.xyz/live/club/DISTRITOCOMEDIA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/pWW9ljW.jpg", DISTRITO COMEDIA 2
+https://tv.teleclub.xyz/live/club2/DISTRITOCOMEDIA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/pWW9ljW.jpg", DISTRITO COMEDIA H
+https://tv.teleclub.xyz/live/club3/HISTORY2.m3u8
+#EXTINF:0 type="stream" channelId="1303" group="TV" logo="https://i.imgur.com/DG65mrj.png", FX
+https://tv.teleclub.xyz/live/club/FX.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/DG65mrj.png", FX 2
+https://tv.teleclub.xyz/live/club2/FX.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/DG65mrj.png", FX 3
+https://tv.teleclub.xyz/live/club3/FX.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="TV" logo="https://i.imgur.com/jny3QAK.png", PARAMOUNT CHANNEL
+https://tv.teleclub.xyz/live/club/PARAMOUNT.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/jny3QAK.png", PARAMOUNT CHANNEL 2
+https://tv.teleclub.xyz/live/club2/PARAMOUNT.m3u8
+#EXTINF:0 type="stream" channelId="1214" group="TV" logo="https://i.imgur.com/EYZ7eBe.png", SONY
+https://tv.teleclub.xyz/live/club/SONY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/EYZ7eBe.png", SONY 2
+https://tv.teleclub.xyz/live/club2/SONY.m3u8
+#EXTINF:0 type="stream" channelId="383" group="TV" logo="https://i.imgur.com/vZLlUrl.jpg", SPACE
+https://tv.teleclub.xyz/live/club/SPACE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/vZLlUrl.jpg", SPACE 2
+https://tv.teleclub.xyz/live/club2/SPACE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/eHhcsEN.png", STAR CHANNEL
+https://tv.teleclub.xyz/live/club/FOX.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/eHhcsEN.png", STAR CHANNEL
+https://tv.teleclub.xyz/live/club2/FOX.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/eHhcsEN.png", STAR CHANNEL 3
+https://tv.teleclub.xyz/live/club3/FOX.m3u8
+#EXTINF:0 type="stream" channelId="3228" group="TV" logo="https://i.imgur.com/EOS4pd9.jpg", TBS
+https://tv.teleclub.xyz/live/club/TBS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/EOS4pd9.jpg", TBS 2
+https://tv.teleclub.xyz/live/club2/TBS.m3u8
+#EXTINF:0 type="stream" channelId="895" group="TV" logo="https://i.imgur.com/ysV38FI.jpg", TCM
+https://tv.teleclub.xyz/live/club/TCM.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/ysV38FI.jpg", TCM 2
+https://tv.teleclub.xyz/live/club2/TCM.m3u8
+#EXTINF:0 type="stream" channelId="2709" group="TV" logo="https://i.imgur.com/yU9QqzF.png", TEEN NICK
+https://tv.teleclub.xyz/live/club2/TEENNICK.m3u8
+#EXTINF:0 type="stream" channelId="2686" group="TV" logo="https://i.imgur.com/JDNccBb.jpg", TNT SERIES
+https://tv.teleclub.xyz/live/club/TNTSERIES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/JDNccBb.jpg", TNT SERIES 2
+https://tv.teleclub.xyz/live/club2/TNTSERIES.m3u8
+#EXTINF:0 type="stream" channelId="2626" group="TV" logo="https://i.imgur.com/pMWxBGL.png", TRUTV
+https://tv.teleclub.xyz/live/club/TRUTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/nwZ62Yf.png", TRUTV 2
+https://tv.teleclub.xyz/live/club2/TRUTV.m3u8
+#EXTINF:0 type="stream" channelId="187" group="TV" logo="https://i.imgur.com/DrnnyVT.jpg", UNIVERSAL
+https://tv.teleclub.xyz/live/club/UNIVERSAL.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/4jJSyxE.png", UNIVERSAL 2
+https://tv.teleclub.xyz/live/club2/UNIVERSAL.m3u8
+#EXTINF:0 type="stream" channelId="2557" group="TV" logo="https://i.imgur.com/Db6x442.jpg", WARNER
+https://tv.teleclub.xyz/live/club/WARNER.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/Db6x442.jpg", WARNER 2
+https://tv.teleclub.xyz/live/club2/WARNER.m3u8  ---------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
+#EXTINF:0 type="stream" channelId="50" group="TV" logo="https://i.imgur.com/pTPpWJi.jpg", ANIMAL PLANET
+https://tv.teleclub.xyz/live/club/ANIMALPLANET.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/nYBBYYO.png", ANIMAL PLANET 2
+https://tv.teleclub.xyz/live/club2/ANIMALPLANET.m3u8
+#EXTINF:0 type="stream" channelId="57" group="TV" logo="https://i.imgur.com/Bclub2aoE.png", DISCOVERY
+https://tv.teleclub.xyz/live/club/DISCOVERY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/Bclub2aoE.png", DISCOVERY ARG
+https://tv.teleclub.xyz/live/club2/DISCOVERY.m3u8
+#EXTINF:0 type="stream" channelId="2841" group="TV" logo="https://i.imgur.com/B9KQLhp.png", DISCOVERY CIVILIZATION
+https://tv.teleclub.xyz/live/club/DISCOVERYCIVILIZATION.m3u8
+#EXTINF:0 type="stream" channelId="2620" group="TV" logo="https://i.imgur.com/OO9PaGb.jpg", DISCOVERY HEALTH
+https://tv.teleclub.xyz/live/club/DHYH.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/zjAklOm.png", DISCOVERY HEALTH ARG
+https://tv.teleclub.xyz/live/club2/DHYH.m3u8
+#EXTINF:0 type="stream" channelId="58" group="TV" logo="https://i.imgur.com/MyPyuM2.jpg", DISCOVERY SCIENCE
+https://tv.teleclub.xyz/live/club/DSCIENCES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/MyPyuM2.jpg", DISCOVERY SCIENCE 2
+https://tv.teleclub.xyz/live/club2/DSCIENCES.m3u8
+#EXTINF:0 type="stream" channelId="2558" group="TV" logo="https://i.imgur.com/dCIf15Q.jpg", DISCOVERY THEATER
+https://tv.teleclub.xyz/live/club/DTHEATER.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/dCIf15Q.jpg", DISCOVERY THEATER 2
+https://tv.teleclub.xyz/live/club2/DTHEATER.m3u8
+#EXTINF:0 type="stream" channelId="2840" group="TV" logo="https://i.imgur.com/HWv6NHE.jpg", DISCOVERY TURBO
+https://tv.teleclub.xyz/live/club/DTURBO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/HWv6NHE.jpg", DISCOVERY TURBO 2
+https://tv.teleclub.xyz/live/club2/DTURBO.m3u8
+#EXTINF:0 type="stream" channelId="2839" group="TV" logo="https://i.imgur.com/n8yegix.jpg", DISCOVERY WORLD
+https://tv.teleclub.xyz/live/club/DWORLD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/n8yegix.jpg", DISCOVERY WORLD 2
+https://tv.teleclub.xyz/live/club2/DWORLD.m3u8
+#EXTINF:0 type="stream" channelId="59" group="TV" logo="https://i.imgur.com/Zp8RIL3.jpg", INVEST_DISCOVERY
+https://tv.teleclub.xyz/live/club/ID.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/Zp8RIL3.jpg", INVEST_DISCOVERY 2
+https://tv.teleclub.xyz/live/club2/ID.m3u8
+#EXTINF:0 type="stream" channelId="1455" group="TV" logo="https://i.imgur.com/J897iGL.jpg", HISTORY
+https://tv.teleclub.xyz/live/club/HISTORY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/J897iGL.jpg", HISTORY 2
+https://tv.teleclub.xyz/live/club2/HISTORY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/ypR4tvy.jpg", H2
+https://tv.teleclub.xyz/live/club/H2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/ypR4tvy.jpg", H2 2
+https://tv.teleclub.xyz/live/club2/H2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/dq6jLKm.jpg", NATGEO
+https://tv.teleclub.xyz/live/club/NATGEO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/QXTEcVw.png", NATGEO 2
+https://tv.teleclub.xyz/live/club2/NATGEO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/dq6jLKm.jpg", NATGEO 3
+https://tv.teleclub.xyz/live/club3/NATGEO.m3u8
+#EXTINF:0 type="stream" channelId="164" group="TV" logo="https://i.imgur.com/YFDNnoK.jpg", NATGEO WILD
+https://tv.teleclub.xyz/live/club/NATGEOWILD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/YFDNnoK.jpg", NATGEO WILD 2
+https://tv.teleclub.xyz/live/club2/NATGEOWILD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/YFDNnoK.jpg", NATGEO WILD 3
+https://tv.teleclub.xyz/live/club3/NATGEOWILD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/4krdlGM.png", STAR ACTION OESTE
+https://tv.teleclub.xyz/live/club2/FOXACTION.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/MshuPCU.png", STAR ACTION OESTE 2
+https://tv.teleclub.xyz/live/club/FOXACTION.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/4krdlGM.png", STAR ACTION OESTE 3
+https://tv.teleclub.xyz/live/club2/STARACTION.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/7kRGbE6.png", STAR CINEMA
+https://tv.teleclub.xyz/live/club/FOXCINEMA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/u2lgAVF.png", STAR CINEMA 2
+https://tv.teleclub.xyz/live/club2/STARCINEMA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/u2lgAVF.png", STAR CINEMA 3
+https://tv.teleclub.xyz/live/club2/FOXCINEMA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/dvggMbn.png", STAR CLASSICS
+https://tv.teleclub.xyz/live/club/FOXCLASSIC.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/qLXeX12.png", STAR CLASSICS 2
+https://tv.teleclub.xyz/live/club/STARCLASSICS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/qLXeX12.png", STAR CLASSICS 3
+https://tv.teleclub.xyz/live/club2/FOXCLASSIC.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/fPeLj0u.png", STAR COMEDY
+https://tv.teleclub.xyz/live/club/FOXCOMEDY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/U5TMnGD.png", STAR COMEDY 2
+https://tv.teleclub.xyz/live/club2/STARCOMEDY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/U5TMnGD.png", STAR COMEDY 3
+https://tv.teleclub.xyz/live/club2/FOXCOMEDY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/5eYXAxv.png", STAR FUN ESTE
+https://tv.teleclub.xyz/live/club/FOXFAMILY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/49Z7vBe.png", STAR FUN ESTE 2
+https://tv.teleclub.xyz/live/club2/STARFUN.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/49Z7vBe.png", STAR FUN ESTE 3
+https://tv.teleclub.xyz/live/club2/FOXFAMILY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/ydSaYNJ.png", STAR HITS
+https://tv.teleclub.xyz/live/club/FOXMOVIES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/O5IvT7k.png", STAR HITS 2
+https://tv.teleclub.xyz/live/club2/STARHITS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/O5IvT7k.png", STAR HITS 3
+https://tv.teleclub.xyz/live/club2/FOXMOVIES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/W8qL6rh.png", STAR SERIES ESTE
+https://tv.teleclub.xyz/live/club/FOXSERIES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/ZBgJDA2.png", STAR SERIES ESTE 2
+https://tv.teleclub.xyz/live/club2/STARSERIES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/ZBgJDA2.png", STAR SERIES ESTE 3
+https://tv.teleclub.xyz/live/club2/FOXSERIES.m3u8
+#EXTINF:0 type="stream" channelId="1330" group="TV" logo="https://i.imgur.com/4pK7qIc.jpg", HBO
+https://tv.teleclub.xyz/live/club/HBO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/4pK7qIc.jpg", HBO ESTE
+https://tv.teleclub.xyz/live/club2/HBO.m3u8
+#EXTINF:0 type="stream" channelId="935" group="TV" logo="https://i.imgur.com/VjhL79o.jpg", HBO 2
+https://tv.teleclub.xyz/live/club/HBO2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/VjhL79o.jpg", HBO 2 ESTE
+https://tv.teleclub.xyz/live/club2/HBO2.m3u8
+#EXTINF:0 type="stream" channelId="2585" group="TV" logo="https://i.imgur.com/k9ctQko.jpg", HBO PLUS
+https://tv.teleclub.xyz/live/club/HBOPLUS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/k9ctQko.jpg", HBO PLUS ESTE
+https://tv.teleclub.xyz/live/club2/HBOPLUS.m3u8
+#EXTINF:0 type="stream" channelId="2584" group="TV" logo="https://i.imgur.com/KQSKMwy.jpg", HBO FAMILY
+https://tv.teleclub.xyz/live/club/HBOFAMILY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/KQSKMwy.jpg", HBO FAMILY 2
+https://tv.teleclub.xyz/live/club2/HBOFAMILY.m3u8
+#EXTINF:0 type="stream" channelId="2725" group="TV" logo="https://i.imgur.com/UWB6lC9.jpg", HBO MUNDI
+https://tv.teleclub.xyz/live/club/HBOMUNDI.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/UWB6lC9.jpg", HBO MUNDI 2
+https://tv.teleclub.xyz/live/club2/HBOMUNDI.m3u8
+#EXTINF:0 type="stream" channelId="361" group="TV" logo="https://i.imgur.com/JeWg4u9.jpg", HBO POP
+https://tv.teleclub.xyz/live/club/HBOPOP.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/JeWg4u9.jpg", HBO POP ESTE
+https://tv.teleclub.xyz/live/club2/HBOPOP.m3u8
+#EXTINF:0 type="stream" channelId="2583" group="TV" logo="https://i.imgur.com/sVEsqdE.jpg", HBO SIGNATURE
+https://tv.teleclub.xyz/live/club/HBOSIGNATURE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/sVEsqdE.jpg", HBO SIGNATURE 2
+https://tv.teleclub.xyz/live/club2/HBOSIGNATURE.m3u8
+#EXTINF:0 type="stream" channelId="2587" group="TV" logo="https://i.imgur.com/R6DVZ2A.jpg", HBO XTREME
+https://tv.teleclub.xyz/live/club/HBOXTREME.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/R6DVZ2A.jpg", HBO XTREME ESTE
+https://tv.teleclub.xyz/live/club2/HBOXTREME.m3u8  ----------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
+#EXTINF:0 type="stream" channelId="2501" group="TV" logo="https://i.imgur.com/EomyGGs.jpg", AMC
+https://tv.teleclub.xyz/live/club/AMC.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/EomyGGs.jpg", AMC 2
+https://tv.teleclub.xyz/live/club2/AMC.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/EomyGGs.jpg", AMC ARG
+https://tv.teleclub.xyz/live/club3/AMC.m3u8
+#EXTINF:0 type="stream" channelId="64" group="TV" logo="https://i.imgur.com/tOWSdVk.jpg", CINECANAL
+https://tv.teleclub.xyz/live/club/CINECANAL.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/V65sr75.png", CINECANAL 2
+https://tv.teleclub.xyz/live/club2/CINECANAL.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/tOWSdVk.jpg", CINECANAL 3
+https://tv.teleclub.xyz/live/club3/CINECANAL.m3u8
+#EXTINF:0 type="stream" channelId="1326" group="TV" logo="https://i.imgur.com/6jPJclubq.jpg", CINEMAX
+https://tv.teleclub.xyz/live/club/CINEMAX.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/6jPJclubq.jpg", CINEMAX 2
+https://tv.teleclub.xyz/live/club2/CINEMAX.m3u8
+#EXTINF:0 type="stream" channelId="283" group="TV" logo="https://i.imgur.com/1eKZASl.png", CINE LATINO
+https://tv.teleclub.xyz/live/club/CINELATINO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/7AY3tm6.png", CINE LATINO 2
+https://tv.teleclub.xyz/live/club2/CINELATINO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/w9FRWYm.png", DEPELICULA
+https://tv.teleclub.xyz/live/club3/DEPELICULA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/w9FRWYm.png", DEPELICULA PLUS
+https://tv.teleclub.xyz/live/club/DEPELICULA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/w9FRWYm.png", DEPELICULA PLUS 2
+https://tv.teleclub.xyz/live/club2/DEPELICULA.m3u8
+#EXTINF:0 type="stream" channelId="3743" group="TV", DHE
+https://tv.teleclub.xyz/live/club3/DHE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/lVGC2kW.png", FXM
+https://tv.teleclub.xyz/live/club/FXM.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/lVGC2kW.png", FXM 2
+https://tv.teleclub.xyz/live/club2/FXM.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/lVGC2kW.png", FXM 3
+https://tv.teleclub.xyz/live/club3/FXM.m3u8
+#EXTINF:0 type="stream" channelId="333" group="TV" logo="https://i.imgur.com/DuBfKVG.jpg", GOLDEN
+https://tv.teleclub.xyz/live/club3/GOLDEN.m3u8
+#EXTINF:0 type="stream" channelId="2502" group="TV" logo="https://i.imgur.com/DuBfKVG.jpg", GOLDEN EDGE
+https://tv.teleclub.xyz/live/club3/GEDGE.m3u8
+#EXTINF:0 type="stream" channelId="3765" group="TV" logo="https://i.imgur.com/DuBfKVG.jpg", GOLDEN PLUS
+https://tv.teleclub.xyz/live/club/GOLDEN.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/DuBfKVG.jpg", GOLDEN PLUS 2
+https://tv.teleclub.xyz/live/club2/GOLDEN.m3u8
+#EXTINF:0 type="stream" channelId="1963" group="TV" logo="https://i.imgur.com/DuBfKVG.jpg", GOLDEN PREMIER
+https://tv.teleclub.xyz/live/club/GOLDENPREMIER.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/DuBfKVG.jpg", GOLDEN PREMIER 2
+https://tv.teleclub.xyz/live/club2/GOLDENPREMIER.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", PARAMOUNT
+https://tv.teleclub.xyz/live/club/PARAMOUNT.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", PARAMOUNT 2
+https://tv.teleclub.xyz/live/club2/PARAMOUNT.m3u8
+#EXTINF:0 type="stream" channelId="2625" group="TV" logo="https://i.imgur.com/tKuGOYa.jpg", STUDIO UNIVERSAL
+https://tv.teleclub.xyz/live/club/STUDIOUNIVERSAL.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/tKuGOYa.jpg", STUDIO UNIVERSAL 2
+https://tv.teleclub.xyz/live/club2/STUDIOUNIVERSAL.m3u8
+#EXTINF:0 type="stream" channelId="1052" group="TV" logo="https://i.imgur.com/QjXLCLg.png", TNT
+https://tv.teleclub.xyz/live/club/TNT.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/QjXLCLg.png", TNT 2
+https://tv.teleclub.xyz/live/club2/TNT.m3u8  ----------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------
+#EXTINF:0 type="stream" channelId="4659" group="TV", CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE CANELA (USA)
+https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="4774" group="TV", CANAL CLARO
+https://tv.teleclub.xyz/live/club2/CLAROSPORT.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi  %C3%B3n2019.png" tvg-country="UN", CINE Claro (CO)
+http://186.101.216.211:8000/play/a08e?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="1138" group="INT", CINE ROUGE TV (CH) FRANCES
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE ACCION (RAKUTEN) (ES)
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8?  checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE COMEDIA (Rakuten) ES
+https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8?  checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", Spotlight (Rakuten)
+https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8?  checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE Top Free (Rakuten)
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE TV Shows (Rakuten)
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8?  checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE Horrify (ROKU)
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE SUREÑO (ROKU)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", TOP CINE (ROKU)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", CINE CINCO TV ((ARG)
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w172622627.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE DELTA TV (DO)
+http://cm.hostlagarto.com:8081/deltatv/deltatv50.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INT" audio-track="spa" aspect-ratio="16:9" subtitles="spa" size="Small", CINE FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE FMTV 2
+http://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w836709061.m3u8?_=8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw", CINE GEN TV   (AR)
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" tvg-country="UNSORTED", CINE HM  (DO)
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE LATINO 2021
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/107?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="http://127.0.0.1/", CINE ORBIT HD (DO)
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1565730225.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE Ready HD (DO)
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", CINE RETROPLUS (CL)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE RUN TIME (ES)
+https://runtime-espana-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE Super Cine
+http://rtmp02.portalexpress.es/fmtv3/fmtv3/chunklist_w1901362887.m3u8?_=6
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINESVERDI (ES)
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" audio-track="spa" aspect-ratio="16:9" subtitles="spa" tvg-country="UNSORTED", CINE WMS (DO)
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://yt3.ggpht.com/-oWwq4sz7xi8/AAAAAAAAAAI/AAAAAAAAAAA/EVeSO1aMco8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", CINE Wow TV  (SV)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="253" group="TV", CINE ZEE MUNDO (IN)
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?WebM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV", CINE ZPTV (CL)
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="INT" logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" aspect-ratio="16:9", MI TV -  RETRO (UTAH - USA)
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA", TELERED - SERIES RETRO - (CR)
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745", TELESISTEMA - SERIES  RETRO (CR)
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w227848239.m3u8?WebM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV", CANAL 74 - SERIES RETRO
+https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
+#EXTINF:0 type="stream" channelId="287" group="TV", CLARO SPORT
+http://209.91.213.10:8088/play/a024
+#EXTINF:0 type="stream" channelId="-1" group="TV", CLARO SPORT 2
+https://tv.teleclub.xyz/live/club2/CLAROSPORT.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/vw05dXK.jpg", DIRECTV SPORT ECU
+https://tv.teleclub.xyz/live/club2/DIRECTV_SPORT.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/vw05dXK.jpg", DIRECTV SPORT
+https://tv.teleclub.xyz/live/club/DIRECTV_SPORT.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/vw05dXK.jpg", DIRECTV SPORT 2
+https://tv.teleclub.xyz/live/club/DIRECTV_SPORTPLUS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/vw05dXK.jpg", DIRECTV SPORT 2
+https://tv.teleclub.xyz/live/club2/DIRECTV_SPORT2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/vw05dXK.jpg", DIRECTV SPORT+
+https://tv.teleclub.xyz/live/club/DIRECTV_SPORT2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/vw05dXK.jpg", DIRECTV SPORT+ 2
+https://tv.teleclub.xyz/live/club2/DIRECTV_SPORTPLUS.m3u8
+#EXTINF:0 type="stream" channelId="344" group="TV", ESPN 2 (UFC)
+https://tv.teleclub.xyz/live/club3/ESPN2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/vw05dXK.jpg", ECDF El Canal del Futbol
+https://tv.teleclub.xyz/live/club2/ECDF.m3u8
+#EXTINF:0 type="stream" channelId="1686" group="TV" logo="https://i.imgur.com/k7yZgTl.jpg", GOLTV ECUADOR
+https://tv.teleclub.xyz/live/club/GOLTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/k7yZgTl.jpg", GOLTV ECUADOR 2
+https://tv.teleclub.xyz/live/club2/GOLTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/k7yZgTl.jpg", GOLTV ECUADOR 3
+https://tv.teleclub.xyz/live/club3/GOLTV2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/hMo03Pz.png", GOLTV PERU
+https://tv.teleclub.xyz/live/club/GOLPERU.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/xjnOlda.png", FOXSPORTS PREMIUM
+https://tv.teleclub.xyz/live/club/FOXSPORTSPREMIUM.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", FOX SPORT 2 (RAW)
+https://tv.teleclub.xyz/live/club/FOXSPORT2_LAT.m3u8
+#EXTINF:0 type="stream" channelId="4668" group="TV" logo="https://i.imgur.com/sQgcpZY.png", TNT SPORT ARG
+https://tv.teleclub.xyz/live/club2/TNTSPORTS.m3u8
+#EXTINF:0 type="stream" channelId="4642" group="TV", UFC 2
+https://tv.teleclub.xyz/live/club/UFC.m3u8
+#EXTINF:0 type="stream" channelId="4040" group="TV" logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg", FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:0 type="stream" channelId="2595" group="TV", COMBATE PELEAS
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50536?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="1333" group="TV" logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", DEPORTES Red Bull TV (UHD)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/uGKfZPF.png", Chive TV (BLOOPPERS)
+http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:0 type="stream" channelId="1677" group="TV" logo="http://vertelevisor.com/logos/cosmo.png", COSMO TV (SERIES) (ESP)
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1685" group="TV", FDF (SERIES) (ESP)
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", Atresmedia SERIES
+https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="3726" group="TV", Atres series Internacional
+http://186.101.216.211:8000/play/a0dv?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/4EQM99H.jpg", A3 SERIES INT
+https://tv.teleclub.xyz/live/club/A3SERIES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/4EQM99H.jpg", A3 SERIES INT 2
+https://tv.teleclub.xyz/live/club2/A3SERIES.m3u8
+#EXTINF:0 type="stream" channelId="3713" group="TV" logo="https://i.imgur.com/EaWNj3F.jpg", HOLATV
+https://tv.teleclub.xyz/live/club/HOLATV.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/EaWNj3F.jpg", HOLATV 2
+https://tv.teleclub.xyz/live/club2/HOLATV.m3u8
+#EXTINF:0 type="stream" channelId="1200" group="TV" logo="https://i.imgur.com/iiw3ibE.png", LIFETIME
+https://tv.teleclub.xyz/live/club/LIFETIME.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/iiw3ibE.png", LIFETIME 2
+https://tv.teleclub.xyz/live/club2/LIFETIME.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/cy89pWC.png", STAR LIFE
+https://tv.teleclub.xyz/live/club/FOXLIFE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/He33NZC.png", STAR LIFE 2
+https://tv.teleclub.xyz/live/club2/FOXLIFE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/He33NZC.png", STAR LIFE 3
+https://tv.teleclub.xyz/live/club2/STARLIFE.m3u8  ------------------------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------------------------
+#EXTINF:0 type="stream" channelId="2883" group="TV" logo="https://i.imgur.com/4Y9uawT.png", CNN ESP
+https://tv.teleclub.xyz/live/club/CNNESPANOL.m3u8
+#EXTINF:0 type="stream" channelId="1972" group="TV", CNN (CL)
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2344" group="TV", TVN (CL)
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="3733" group="TV", CARACOL HD (COL)
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/0jYyq4K.jpg", CARACOL TV COL
+https://tv.teleclub.xyz/live/club/CARACOL.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/0jYyq4K.jpg", CARACOL TV COL 2
+https://tv.teleclub.xyz/live/club2/CARACOLTV.m3u8
+#EXTINF:0 type="stream" channelId="4772" group="INT", CANAL CAPITAL (COL)
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INT" tvg-country="UN", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?  checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="3783" group="TV" logo="https://i.imgur.com/xvgKK5S.png", RCN COL
+https://tv.teleclub.xyz/live/club/RCN.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/xvgKK5S.png", RCN COL 2
+https://tv.teleclub.xyz/live/club2/RCN.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/xvgKK5S.png", RCN COL 3
+https://tv.teleclub.xyz/live/club3/RCN.m3u8
+#EXTINF:0 type="stream" channelId="2726" group="TV", Canal 26 (ARG)
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0 type="stream" channelId="3789" group="TV", TELEFE ROSARIO (ARG)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/WAZn1np.png", TELEFE ARG
+https://tv.teleclub.xyz/live/club/TELEFE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/WAZn1np.png", TELEFE ARG 2
+https://tv.teleclub.xyz/live/club2/TELEFE.m3u8
+#EXTINF:0 type="stream" channelId="2409" group="TV" logo="https://i.imgur.com/uYOLwOj.png", EL TRECE ARG
+https://tv.teleclub.xyz/live/club/ELTRECE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/uYOLwOj.png", EL TRECE ARG 2
+https://tv.teleclub.xyz/live/club2/ELTRECE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/uYOLwOj.png", EL TRECE ARG INT
+https://tv.teleclub.xyz/live/club3/ELTRECEINTERNACIONAL.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", MULTIVISION (ARG)
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:0 type="stream" channelId="2663" group="TV" logo="https://i.imgur.com/ZBHfa87.png", TELESUR ARG
+https://tv.teleclub.xyz/live/EXTERNA_TELESUR_LAT.m3u8
+#EXTINF:0 type="stream" channelId="3731" group="TV" logo="https://i.imgur.com/osmtnbz.png", AZTECA 1 MEX
+https://tv.teleclub.xyz/live/club/AZTECA1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/osmtnbz.png", AZTECA 1 MEX 2
+https://tv.teleclub.xyz/live/club2/AZTECA1.m3u8
+#EXTINF:0 type="stream" channelId="255" group="TV" logo="https://i.imgur.com/osmtnbz.png", AZTECA 7 MEX
+https://tv.teleclub.xyz/live/club/AZTECA7.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/osmtnbz.png", AZTECA 7 MEX 2
+https://tv.teleclub.xyz/live/club2/AZTECA7.m3u8
+#EXTINF:0 type="stream" channelId="228" group="TV" logo="https://i.imgur.com/CcbzbGk.jpg", AZ MUNDO MEX
+https://tv.teleclub.xyz/live/club3/AZMUNDO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", ESTRELLA TV (MX)
+https://estrellatv-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="1954" group="TV" logo="https://i.imgur.com/kaTu9Qb.png", LAS ESTRELLAS MEX
+https://tv.teleclub.xyz/live/club/LASESTRELLAS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/JuNDDAd.png", LAS ESTRELLAS MEX 2
+https://tv.teleclub.xyz/live/club2/LASESTRELLAS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/kaTu9Qb.png", LAS ESTRELLAS MEX 3
+https://tv.teleclub.xyz/live/club3/ESTRELLAS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/ojP9uxU.png", AMERICA TV PERU
+https://tv.teleclub.xyz/live/club3/AMERICATV.m3u8
+#EXTINF:0 type="stream" channelId="2545" group="TV" logo="https://i.imgur.com/kaTu9Qb.png", LATINA PERU
+https://tv.teleclub.xyz/live/club3/LATINA.m3u8
+#EXTINF:0 type="stream" channelId="4749" group="TV" logo="https://i.imgur.com/9Ueycxo.png", LATELE PERU
+https://tv.teleclub.xyz/live/club3/LATELE.m3u8
+#EXTINF:0 type="stream" channelId="1956" group="TV" logo="https://i.imgur.com/uQhEDES.png" tvg-country="PE", Panamericana TV (PE)
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/4oFlS04.png", PANAMERICANA PERU
+https://tv.teleclub.xyz/live/club3/PANAMERICANA.m3u8
+#EXTINF:0 type="stream" channelId="4804" group="TV" logo="https://i.imgur.com/9cBcBHS.png", WILLAX PERU
+https://tv.teleclub.xyz/live/club3/WILLAX.m3u8  -------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 type="stream" channelId="1968" group="TV" logo="https://i.imgur.com/QiPgywx.png", TELEMUNDO EEUU
+https://tv.teleclub.xyz/live/club2/TELEMUNDO.m3u8
+#EXTINF:0 type="stream" channelId="3791" group="TV" logo="https://i.imgur.com/55x9NTr.jpg", TELEMUNDO PTO. RICO
+https://tv.teleclub.xyz/live/club/TELEMUNDO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", UNIVISION 14 SAN FRANCISCO
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/bEebu04.png", UNIVISION LAT
+https://tv.teleclub.xyz/live/club2/UNIVISION.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", UNIVISION EEUU
+https://tv.teleclub.xyz/live/club3/UNIVISION.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/Jx19gkD.png", VEPLUS TV VEN
+https://tv.teleclub.xyz/live/club3/VEPLUSTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", LOS SIMPSONS PRIMERAS TEMPORADAS
+http://srv5.zcast.com.br/simpsons/simpsons/chunklist_w653600147.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", LOS SIMPSONS CLOUDSERVER
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w561590009.m3u8?WebM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV", LOS SIMPSONS CLOUDSERVER
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", LOS SIMPSONS CLOUD
+https://tv.teleclub.xyz/live/EXTERNA_VER_SIMPSONS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", LOS SIMPSONS CLOUD
+https://tv.teleclub.xyz/live/club2/247_SIMPSONS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", LOS SIMPSONS X TEMP TL
+https://tv.teleclub.xyz/live/ONLINE_SIMPSON247.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", EL CHAVO DEL 8  CLOUD
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1656956317.m3u8?WebM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV", EL CHAVO DEL 8
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", EL CHAVO DEL 8 tclub CLOUD
+https://tv.teleclub.xyz/live/club/CHAVO_8.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", EL CHAVO DEL 8 Tclub2
+https://tv.teleclub.xyz/live/club3/247_CHAVO.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", ANIMANIACS TL
+https://tv.teleclub.xyz/live/club3/247_ANIMANIATICS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", BOB ESPOJA TL
+https://tv.teleclub.xyz/live/club3/247_BOBESPONJA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", FUTURAMA Tclub
+https://tv.teleclub.xyz/live/club3/247_FUTURAMA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", FUTURAMA Tclub2
+https://tv.teleclub.xyz/live/ONLINE_FUTURAMA247.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", POKEMON  TL
+https://tv.teleclub.xyz/live/club2/247_POKEMON.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", SUPERCAMPEONES  TL
+https://tv.teleclub.xyz/live/club2/247_SUPERCAMPEONES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", TEORIA DEL BIG BANG  TL
+https://tv.teleclub.xyz/live/club2/247_BINGBANG.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", THUNDERCATS
+https://tv.teleclub.xyz/live/club2/247_THUNDERCATS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", SERIE DE LA ROCA TL
+https://tv.teleclub.xyz/live/club2/247_PELICULAS.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", SMALLVILLE  TL
+https://tv.teleclub.xyz/live/club2/247_SMALLVILLE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", MALCOLM TL
+https://tv.teleclub.xyz/live/club2/247_MALCOLM.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV" logo="https://i.imgur.com/GmLDkty.jpg", COMO CONOCI A TU MADRE  TL
+https://tv.teleclub.xyz/live/club2/247_MADRE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", CINE LIFE FHD (US)
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", ACTION MOVIES (ROKU ) FRANCES
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8?  checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", CINE CRAKLE (US)
+https://crackle-plex.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", DARK GOLD
+http://albauser.net:2235/antree-iptv/exchange/84305?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", CINE &Flix (IN) INGLES
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", CINE Privè HD (IN) INGLES
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", CINE MINERVA (IT) ITALIANO
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", CINE ACTION (PT) PORTUGUES
+https://list.iptvcat.com/my_list/s/e1f3cdbc0f646585b261cf5b46d6c184.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="OTROS IDIOMAS", TVCINE TOP (PT) PORTUGUES
+https://list.iptvcat.com/my_list/s/d47f20fb2c24140f0f6916be52ba7e33.m3u8
